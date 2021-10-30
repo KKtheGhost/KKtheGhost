@@ -23,7 +23,7 @@
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 **Steam playtime leaderboard**</a>
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 512 hrs 3 mins
 🚓 Grand Theft Auto V               🕘 319 hrs 32 mins
