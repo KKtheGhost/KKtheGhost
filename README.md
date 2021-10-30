@@ -19,8 +19,6 @@
 </tr>
 <tr valign="top" width="100%">
 
-#### 🤾‍♂️ <a href="https://steamcommunity.com/id/kivinsae/games/" target="_blank">**Recent Games**</a>
-
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
