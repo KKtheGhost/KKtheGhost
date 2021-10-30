@@ -10,26 +10,20 @@
 <table width="800px">
 <tr valign="top" width="100%">
 
-#### 🏋️‍♀️ <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
+#### 📈 <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🏋️‍♀️ <a href="https://kivinsae.com" target="_blank">**Recent Blogs**</a>
 
-
-<!-- blog starts -->
-* <a href='https://kivinsae.com/setup-a-repo-for-my-reading-thinkings-2ac10f5a50b0' target='_blank'>Setup a repo for my reading thinkings</a> - 19 hours ago
-* <a href='https://kivinsae.com/an-ugly-feature-about-io-eof-in-go-3f7852fb8c73' target='_blank'>An ugly feature about io.EOF in Go</a> - 4 days ago
-* <a href='https://kivinsae.com/came-back-from-vacation-94a129e2fd68' target='_blank'>Came back from vacation</a> - Oct 4
-* <a href='https://kivinsae.com/lets-talk-about-ideal-device-ownership-4e1cb0deb5d0' target='_blank'>Let’s talk about ideal device ownership</a> - Sep 29
-* <a href='https://kivinsae.com/dairy-26-sep-2021-30789c43af61' target='_blank'>Dairy: 26 Sep 2021</a> - Sep 26
-<!-- blog ends -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </tr>
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 **Steam playtime leaderboard**</a>
 ```text
 ⚔️ Dota 2                           🕘 512 hrs 3 mins
 🚓 Grand Theft Auto V               🕘 319 hrs 32 mins
@@ -44,7 +38,7 @@
 <tr valign="top" width="100%">
 
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 **Weekly development breakdown**</a>
 ```text
 YAML       🕓 7m ███████████████████████████████100.0%
 JavaScript 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
