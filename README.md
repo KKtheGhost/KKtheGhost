@@ -21,12 +21,8 @@
 
 #### 🤾‍♂️ <a href="https://steamcommunity.com/id/kivinsae/games/" target="_blank">**Recent Games**</a>
 
-<!-- douban starts -->
-* <a href='https://store.steampowered.com/app/346110' target='_blank'>ARK: Survival Evolved</a> - 过去 2 周 1.8 小时
-* <a href='http://movie.douban.com/subject/30174085/' target='_blank'>了不起的修仙模拟器</a> - 过去 2 周 2.0 小时
-* <a href='https://book.douban.com/subject/35292726/' target='_blank'>Dota 2</a> - 过去 2 周 36.5 小时
-* <a href='http://movie.douban.com/subject/34660591/' target='_blank'>Raft</a> - 过去 2 周 2.5 小时
-* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>Grand Theft Auto V</a> - 过去 2 周 25.7 小时
+ <!-- steam-box start -->
+ <!-- steam-box end -->
 
 </tr>
 <tr valign="top" width="100%">
