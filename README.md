@@ -2,16 +2,20 @@
 [![Update wakatime stats](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml)
 
 ## Kivinsaeと申します
----
 
 大家好我是Kivinsae，一位Base上海的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，也欢迎加我的Steam或访问我的博客~
 - 以下内容通过[KKtheGhost/action](https://github.com/KKtheGhost/KKtheGhost/actions)持续不断的24小时更新中。
-- 关于如何制作：详见[这里](https://github.com/KKtheGhost/KKtheGhost/blob/main/README.md)。
+- 关于如何制作：详见[这里](https://github.com/KKtheGhost/KKtheGhost/blob/main/about.md)。
 
 <table width="800px">
 <tr valign="top" width="100%">
 
+#### 🏋️‍♀️ <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 🏋️‍♀️ <a href="https://kivinsae.com" target="_blank">**Recent Blogs**</a>
+
 
 <!-- blog starts -->
 * <a href='https://kivinsae.com/setup-a-repo-for-my-reading-thinkings-2ac10f5a50b0' target='_blank'>Setup a repo for my reading thinkings</a> - 19 hours ago
