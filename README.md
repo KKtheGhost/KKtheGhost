@@ -4,7 +4,7 @@
 
 ## Kivinsaeと申します
 
-大家好我是Kivinsae，一位Base上海的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，也欢迎加我的Steam或访问我的博客~
+大家好我是Kivinsae，一位Base上海的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，也欢迎加我的Steam好友或访问我的博客~
 - 以下内容通过[KKtheGhost/action](https://github.com/KKtheGhost/KKtheGhost/actions)持续不断的24小时更新中。
 - 关于如何制作：详见[这里](https://github.com/KKtheGhost/KKtheGhost/blob/main/about.md)。
 
