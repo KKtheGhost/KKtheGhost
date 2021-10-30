@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Medium Post
 on:
   push:
   workflow_dispatch:
@@ -15,5 +15,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "6"
+          max_post_count: "4"
           feed_list: "https://medium.com/feed/@kivinsae"
