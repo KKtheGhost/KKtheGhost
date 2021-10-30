@@ -1,5 +1,6 @@
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
 [![Update wakatime stats](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml)
+[![Medium Post](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/blog-post-workflow.yml)
 
 ## Kivinsaeと申します
 
