@@ -1,6 +1,4 @@
-<div><font size=5 face="Times New Roman">Kivinsaeと申します</font></div>
-
-
+## Kivinsaeと申します
 
 大家好我是Kivinsae，一位Base上海的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，也欢迎加我的Steam或访问我的博客~
 - 以下内容通过[KKtheGhost/action](https://github.com/KKtheGhost/KKtheGhost/actions)自动每小时`cron:  '0 * * * *'`更新一次。
@@ -47,7 +45,10 @@
 </table>
 
 ---
-<div align="center"><font size=5 face="Times New Roman">My Social Homepages</font></div>
+<div align="center">
+
+## My Social Homepages
+</div>
 <div align="center">
 <br>
 
@@ -58,8 +59,6 @@
 [![Telegram Badge](https://img.shields.io/badge/@kivinsae-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kivinsae)
 [![Telegram Badge](https://img.shields.io/badge/@kivinsae-navy?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kivinsae/)
 [![Insgram Badge](https://img.shields.io/badge/@kivinsae-purple?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/kivinsae/)
-</br>
-<br>
 
 [![Twitter Badge](https://img.shields.io/badge/@kivinsae-white?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/kivinsaefang)
 [![Steam Badge](https://img.shields.io/badge/@kivinsae-gray?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kivinsae/)
