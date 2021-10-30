@@ -55,11 +55,9 @@
 [![Pinterest Badge](https://img.shields.io/badge/@kivinsae-red?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/kivinsae)
 [![Reddit Badge](https://img.shields.io/badge/@kivinsae-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/kivinsae)
 [![Discord Badge](https://img.shields.io/badge/@kivinsae-yellow?style=for-the-badge&logo=discord&logoColor=black)](https://discordapp.com/users/kivinsae/)
-[![XBOX Badge](https://img.shields.io/badge/@kivinsae-green?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/zh-cn/Profile?xr=mebarnav&rtc=1)
 [![Telegram Badge](https://img.shields.io/badge/@kivinsae-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kivinsae)
-[![Telegram Badge](https://img.shields.io/badge/@kivinsae-navy?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kivinsae/)
+[![LinkedIn Badge](https://img.shields.io/badge/@kivinsae-navy?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kivinsae/)
 [![Insgram Badge](https://img.shields.io/badge/@kivinsae-purple?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/kivinsae/)
-
 [![Twitter Badge](https://img.shields.io/badge/@kivinsae-white?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/kivinsaefang)
 [![Steam Badge](https://img.shields.io/badge/@kivinsae-gray?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kivinsae/)
 [![Medium Badge](https://img.shields.io/badge/@kivinsae-black?style=for-the-badge&logo=medium&logoColor=white)](https://kivinsae.com)
