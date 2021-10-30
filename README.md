@@ -2,6 +2,7 @@
 
 大家好我是Kivinsae，一位Base上海的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，也欢迎加我的Steam或访问我的博客~
 - 以下内容通过[KKtheGhost/action](https://github.com/KKtheGhost/KKtheGhost/actions)自动每小时`cron:  '0 * * * *'`更新一次。
+- 关于如何制作：详见[这里](https://github.com/KKtheGhost/KKtheGhost/blob/main/README.md)。
 
 <table width="800px">
 <tr valign="top" width="100%">
@@ -34,15 +35,8 @@
 </tr>
 <tr valign="top" width="100%">
 
-#### 🏊‍♂️ <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Kivinsae&layuout=compact&theme=synthwave&v=2" target="_blank">**Weekly Development Breakdown**</a>
-
-<!-- code_time starts -->
-
-- Automatically Updated: Powered by [Matchi](https://github.com/matchai)
-
-![Weekly Development Breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=Kivinsae&layuout=compact&theme=synthwave&v=2)
-
-<!-- code_time ends -->
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 </tr>
 </table>
