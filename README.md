@@ -17,13 +17,16 @@
 #### 🏋️‍♀️ <a href="https://kivinsae.com" target="_blank">**Recent Blogs**</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup a repo for my reading thinkings](https://medium.com/@kivinsae/setup-a-repo-for-my-reading-thinkings-2ac10f5a50b0?source=rss-8dde2f2ab2e6------2)
+- [An ugly feature about io.EOF in Go](https://medium.com/@kivinsae/an-ugly-feature-about-io-eof-in-go-3f7852fb8c73?source=rss-8dde2f2ab2e6------2)
+- [Start blogging again…](https://medium.com/@kivinsae/start-blogging-again-67702dc6e82?source=rss-8dde2f2ab2e6------2)
 <!-- BLOG-POST-LIST:END -->
 
 </tr>
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 **Steam playtime leaderboard**</a>
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 512 hrs 3 mins
 🚓 Grand Theft Auto V               🕘 319 hrs 32 mins
@@ -38,7 +41,7 @@
 <tr valign="top" width="100%">
 
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 **Weekly development breakdown**</a>
+#### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 Weekly development breakdown</a>
 ```text
 YAML       🕓 7m ███████████████████████████████100.0%
 JavaScript 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
