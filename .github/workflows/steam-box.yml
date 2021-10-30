@@ -38,4 +38,5 @@ jobs:
           git config --global user.email "kivinsae@gmail.com" && git config --global user.name "KKtheGhost"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
+          git config pull.ff only
           git pull && git push
