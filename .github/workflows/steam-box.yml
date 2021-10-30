@@ -2,9 +2,7 @@ name: Update steam playtime
 
 on:
   push:
-    branches: [master]
-  pull_request:
-    branches: [master]
+  workflow_dispatch:
   schedule:
     - cron: "10 * * * *"
 
