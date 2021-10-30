@@ -22,7 +22,16 @@
 #### 🤾‍♂️ <a href="https://steamcommunity.com/id/kivinsae/games/" target="_blank">**Recent Games**</a>
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+⚔️ Dota 2                           🕘 511 hrs 48 mins
+🚓 Grand Theft Auto V               🕘 319 hrs 32 mins
+🎮 ARK: Survival Evolved            🕘 193 hrs 14 mins
+🎮 Dyson Sphere Program             🕘 185 hrs 58 mins
+🎮 太吾绘卷 The Scroll Of Taiwu     🕘 155 hrs 9 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 </tr>
 <tr valign="top" width="100%">
