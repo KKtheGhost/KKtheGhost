@@ -36,7 +36,13 @@
 <tr valign="top" width="100%">
 
  <!-- waka-box start -->
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 Weekly development breakdown</a>
+```text
+YAML       🕓 7m ███████████████████████████████100.0%
+JavaScript 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
 </tr>
 </table>
