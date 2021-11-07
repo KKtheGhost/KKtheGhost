@@ -34,7 +34,7 @@
 ```text
 ⚔️ Dota 2                           🕘 586 hrs 24 mins
 🚓 Grand Theft Auto V               🕘 390 hrs 51 mins
-🎮 ARK: Survival Evolved            🕘 264 hrs 33 mins
+🎮 ARK: Survival Evolved            🕘 264 hrs 40 mins
 🎮 Dyson Sphere Program             🕘 185 hrs 58 mins
 💻 Wallpaper Engine                 🕘 171 hrs 34 mins
 ```
