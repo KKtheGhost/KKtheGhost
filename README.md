@@ -32,10 +32,10 @@
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 836 hrs 50 mins
-🚓 Grand Theft Auto V               🕘 639 hrs 16 mins
-🎮 ARK: Survival Evolved            🕘 511 hrs 57 mins
-💻 Wallpaper Engine                 🕘 417 hrs 53 mins
+⚔️ Dota 2                           🕘 837 hrs 50 mins
+🚓 Grand Theft Auto V               🕘 640 hrs 17 mins
+🎮 ARK: Survival Evolved            🕘 512 hrs 58 mins
+💻 Wallpaper Engine                 🕘 418 hrs 53 mins
 🎮 Dyson Sphere Program             🕘 185 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
