@@ -36,7 +36,7 @@
 🚓 Grand Theft Auto V               🕘 835 hrs 47 mins
 🎮 ARK: Survival Evolved            🕘 708 hrs 28 mins
 💻 Wallpaper Engine                 🕘 614 hrs 23 mins
-🎮 Dyson Sphere Program             🕘 185 hrs 58 mins
+🎮 Dyson Sphere Program             🕘 186 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
