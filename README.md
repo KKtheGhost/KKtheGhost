@@ -32,11 +32,11 @@
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 1522 hrs 51 mins
+⚔️ Dota 2                           🕘 1523 hrs 51 mins
 🚓 Grand Theft Auto V               🕘 835 hrs 47 mins
 🎮 ARK: Survival Evolved            🕘 708 hrs 28 mins
 💻 Wallpaper Engine                 🕘 614 hrs 27 mins
-🎮 Archeblade                       🕘 610 hrs 46 mins
+🎮 Archeblade                       🕘 611 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
