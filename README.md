@@ -32,10 +32,10 @@
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 1678 hrs 7 mins
+⚔️ Dota 2                           🕘 1679 hrs 2 mins
 🚓 Grand Theft Auto V               🕘 835 hrs 47 mins
-🎮 Archeblade                       🕘 766 hrs 2 mins
-🎮 Stellaris                        🕘 721 hrs 47 mins
+🎮 Archeblade                       🕘 766 hrs 57 mins
+🎮 Stellaris                        🕘 722 hrs 42 mins
 🎮 ARK: Survival Evolved            🕘 708 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
