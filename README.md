@@ -21,6 +21,7 @@
 #### 🏋️‍♀️ <a href="https://kivinsae.com" target="_blank">**Recent Blogs**</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple explanation about 312.Burst Balloons](https://medium.com/@kivinsae/a-simple-explanation-about-312-burst-balloons-97cbcd1b6894?source=rss-8dde2f2ab2e6------2)
 - [Setup a repo for my reading thinkings](https://medium.com/@kivinsae/setup-a-repo-for-my-reading-thinkings-2ac10f5a50b0?source=rss-8dde2f2ab2e6------2)
 - [An ugly feature about io.EOF in Go](https://medium.com/@kivinsae/an-ugly-feature-about-io-eof-in-go-3f7852fb8c73?source=rss-8dde2f2ab2e6------2)
 - [Start blogging again…](https://medium.com/@kivinsae/start-blogging-again-67702dc6e82?source=rss-8dde2f2ab2e6------2)
