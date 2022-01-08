@@ -33,11 +33,11 @@
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 1883 hrs 2 mins
-🎮 Archeblade                       🕘 970 hrs 56 mins
-🎮 Stellaris                        🕘 926 hrs 40 mins
-🎮 Forza Horizon 5                  🕘 908 hrs 28 mins
-🎮 Amazing Cultivation Simulator    🕘 859 hrs 26 mins
+⚔️ Dota 2                           🕘 1884 hrs 33 mins
+🎮 Archeblade                       🕘 972 hrs 28 mins
+🎮 Stellaris                        🕘 928 hrs 12 mins
+🎮 Forza Horizon 5                  🕘 909 hrs 59 mins
+🎮 Amazing Cultivation Simulator    🕘 860 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
