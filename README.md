@@ -1,7 +1,6 @@
 [![wakatime](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost.svg)](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost)
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
 [![Update wakatime stats](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml)
-[![Medium Post](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/blog-post-workflow.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
