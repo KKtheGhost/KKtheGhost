@@ -6,7 +6,13 @@
 
 ## Kivinsaeと申します
 
-我是Kivinsae，一位Base上海的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，也欢迎加我的Steam好友或访问我的博客~
+I’m Kivinsae Fang, an Infrastructure Engineer now working in Electronic Arts. My daily development languages are Go, Python and C. It would be my pleasure to explore different technical stacks and tools. If you know any interesting books and blogs, please leave a message here. And you could also find me in the social media links in this page.
+
+我是Kivinsae Fang，一位住在中国的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，你也可以通过本页的社交媒体链接找到我。
+
+皆さんこんにちはこんばんは Kivinsae Fang と申します。現在は Electronic Arts で働いているインフラストラクチャエンジニアです。日常の開発言語は Go、Python、C です。さまざまな技術スタックやツールを探索できれば嬉しくて働くことができるんと思います。何か面白い本やブログをご存知でしたら、このページにメッセージをコメントしてください。また、このブログのエンドに私のソーシャル メディアのホームページへのリンクがつけてあるんだ。これらのページにクリックして、私の最近の更新について詳しく知ることができます。
+
+Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellement chez Electronic Arts. Mes langages de développement quotidiens sont Go, Python et C. Il me fera plaisir d’explorer différentes piles et outils techniques. Si vous connaissez des livres et des blogs intéressants, veuillez laisser un message ici. Et vous pouvez également me trouver dans les liens des médias sociaux sur cette page.
 - 以下内容通过[KKtheGhost/action](https://github.com/KKtheGhost/KKtheGhost/actions)持续不断的24小时更新中。
 - 关于如何制作：详见[这里](https://github.com/KKtheGhost/KKtheGhost/blob/main/about.md)。
 
