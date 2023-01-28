@@ -28,7 +28,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank"><b>🎮 Steam playtime leaderboard</b></a>
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 1985 hrs 2 mins
 🎮 Archeblade                       🕘 995 hrs 53 mins
