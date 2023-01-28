@@ -28,7 +28,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank"><b>🎮 Steam playtime leaderboard</b></a>
 ```text
 ⚔️ Dota 2                           🕘 1985 hrs 2 mins
 🎮 Archeblade                       🕘 995 hrs 53 mins
@@ -40,16 +40,8 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 <!-- steam-box end -->
 
 </tr>
-<tr valign="top" width="100%">
 
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 Weekly development breakdown</a>
-<script src="https://gist.github.com/benbalter/5555251.js"></script>
-<!-- waka-box end -->
-
-</tr>
-
-#### 👛 Wallect Address
+#### <b>👛 Wallect Address</b>
 [![License: MIT](https://img.shields.io/badge/BTC-3PAkWsoSGXKs8eK5DEWfdp3VgEJ17XvgjW-yellow)](https://gist.github.com/KKtheGhost/8a3981e30bd63526375a110d57c6f00a)
 [![License: MIT](https://img.shields.io/badge/ETH-0x9994eA2664c27601407Ef01E2dC9b7bF989ae954-blue)](https://gist.github.com/KKtheGhost/f4feccc86cabd860584e9ad533d1fada)
 
