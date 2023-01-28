@@ -55,6 +55,11 @@ PowerShell 🕓 53m   █▉░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 
 </tr>
+
+#### 👛 Wallect Address
+[![License: MIT](https://img.shields.io/badge/BTC-3PAkWsoSGXKs8eK5DEWfdp3VgEJ17XvgjW-yellow)](3PAkWsoSGXKs8eK5DEWfdp3VgEJ17XvgjW)
+[![License: MIT](https://img.shields.io/badge/ETH-0x9994eA2664c27601407Ef01E2dC9b7bF989ae954-blue)](0x9994eA2664c27601407Ef01E2dC9b7bF989ae954)
+
 </table>
 
 ---
