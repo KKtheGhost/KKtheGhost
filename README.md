@@ -44,14 +44,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 Weekly development breakdown</a>
-```text
-JSON       🕓 6h2m  ████████████▊░░░░░░░░░░░░░░░ 45.9%
-Bash       🕓 1h57m ████▏░░░░░░░░░░░░░░░░░░░░░░░ 14.9%
-YAML       🕓 1h23m ██▉░░░░░░░░░░░░░░░░░░░░░░░░░ 10.6%
-INI        🕓 1h6m  ██▎░░░░░░░░░░░░░░░░░░░░░░░░░  8.4%
-PowerShell 🕓 53m   █▉░░░░░░░░░░░░░░░░░░░░░░░░░░  6.8%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+{% gist c1ebf23efc1552582f685138afc6c2c3 %}
 <!-- waka-box end -->
 
 </tr>
