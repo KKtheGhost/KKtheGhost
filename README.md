@@ -44,7 +44,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/c1ebf23efc1552582f685138afc6c2c3" target="_blank">📊 Weekly development breakdown</a>
-{% gist c1ebf23efc1552582f685138afc6c2c3 %}
+<script src="https://gist.github.com/benbalter/5555251.js"></script>
 <!-- waka-box end -->
 
 </tr>
