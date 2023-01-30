@@ -42,8 +42,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 </tr>
 
 #### <b>👛 Wallect Address</b>
-[![License: MIT](https://img.shields.io/badge/BTC-3PAkWsoSGXKs8eK5DEWfdp3VgEJ17XvgjW-yellow)](https://gist.github.com/KKtheGhost/8a3981e30bd63526375a110d57c6f00a)
-[![License: MIT](https://img.shields.io/badge/ETH-0x9994eA2664c27601407Ef01E2dC9b7bF989ae954-blue)](https://gist.github.com/KKtheGhost/f4feccc86cabd860584e9ad533d1fada)
+[![License: MIT](https://img.shields.io/badge/BTC-156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV-yellow)](156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV)
 
 </table>
 
