@@ -21,7 +21,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 #### 📈 <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kivinsae&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kivinsae&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </tr>
 <tr valign="top" width="100%">
