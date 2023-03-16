@@ -1,6 +1,5 @@
 [![wakatime](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost.svg)](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost)
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
-[![Update wakatime stats](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
@@ -22,7 +21,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 #### 📈 <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kivinsae&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 </tr>
 <tr valign="top" width="100%">
