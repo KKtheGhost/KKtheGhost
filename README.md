@@ -1,6 +1,5 @@
 [![wakatime](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost.svg)](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost)
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ## Kivinsaeと申します
@@ -41,7 +40,7 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 </tr>
 
 #### <b>👛 Wallect Address</b>
-[![License: MIT](https://img.shields.io/badge/BTC-156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV-yellow)](156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV)
+[![BTC](https://img.shields.io/badge/BTC-156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV-yellow)](156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV)
 
 </table>
 
