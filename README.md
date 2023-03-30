@@ -20,8 +20,8 @@ Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellemen
 
 #### 📈 <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kivinsae&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kivinsae's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Kivinsae's Wakapi stats](https://github-readme-stats.vercel.app/api/wakatime?username=kivinsae&api_domain=wakapi.dev&bg_color=151515&title_color=2F855A&icon_color=2F855A&text_color=bbbbbb&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 </tr>
 <tr valign="top" width="100%">
