@@ -1,6 +1,4 @@
-[![wakatime](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost.svg)](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost)
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ## Kivinsaeと申します
 
