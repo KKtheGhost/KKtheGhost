@@ -4,27 +4,52 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-## Kivinsaeと申します
+## <b>我是谁</b>
 
-I’m Kivinsae Fang, an Infrastructure Engineer now working in Electronic Arts. My daily development languages are Go, Python and C. It would be my pleasure to explore different technical stacks and tools. If you know any interesting books and blogs, please leave a message here. And you could also find me in the social media links in this page.
-
-我是Kivinsae Fang，一位住在中国的运维从业者。日常主要在写Go和Python，不过对所有有趣的技术都来者不拒。如果你有什么喜欢的书可以随时推荐给我，你也可以通过本页的社交媒体链接找到我。
-
-皆さんこんにちはこんばんは Kivinsae Fang と申します。現在は Electronic Arts で働いているインフラストラクチャエンジニアです。日常の開発言語は Go、Python、C です。さまざまな技術スタックやツールを探索できれば嬉しくて働くことができるんと思います。何か面白い本やブログをご存知でしたら、このページにメッセージをコメントしてください。また、このブログのエンドに私のソーシャル メディアのホームページへのリンクがつけてあるんだ。これらのページにクリックして、私の最近の更新について詳しく知ることができます。
-
-Je suis Kivinsae Fang, un ingénieur en infrastructure qui travaille actuellement chez Electronic Arts. Mes langages de développement quotidiens sont Go, Python et C. Il me fera plaisir d’explorer différentes piles et outils techniques. Si vous connaissez des livres et des blogs intéressants, veuillez laisser un message ici. Et vous pouvez également me trouver dans les liens des médias sociaux sur cette page.
-- 以下内容通过[KKtheGhost/action](https://github.com/KKtheGhost/KKtheGhost/actions)持续不断的24小时更新中。
-- 关于如何制作：详见[这里](https://github.com/KKtheGhost/KKtheGhost/blob/main/about.md)。
+- 一个在外企打工的底层运维工程师，住在魔都。
+- 目前为止的职业生涯都在游戏行业度过，不过也许未来有机会的话希望可以在更多计算机相关领域工作。因为从个人的观点来看，运维工程师更像是一个泛用型工种。有数字化需求和高可用服务建设需求的领域，都有发挥热量的余地。
+- 已婚，养着两只咪咪。一只布偶，一只英短。
+- 大概英语还可以，雅思口语 8.5 这样。日语属于纯哑巴级别，听读可以，开口暴毙。吴语算是同龄人里讲得最好的那批，单纯因为 4 岁前不会普通话。
+- 曾经喜欢键政，现在看到会直接 Ban。因为这玩意儿真的会死人。
+- 是一个过度自信的人，ENTJ-A 的缘故大概是。所以也没太多朋友，换句话说只是靠脸皮厚活到了现在。
+- 算是一个守口如瓶的人，但是根因其实是健忘。
+- 日常主要写 Python，C，Ruby。脚本最近 Powershell 写的多，Bash 以前写的比较多。
+- Go 写过一段时间，最近没在写了。捡起来应该不难。
+- 容器化是好文明，IaC 也是好文明。但是 HCL 和 Yaml 真的不优美。但是作为使用者，确实也想不出什么更好的替代方案。
+- 最喜欢的游戏是 怪物猎人系列 和 智龙迷城。只有这两个游戏系列我没有中断玩了超过 10 年。
 
 <table width="800px">
 <tr valign="top" width="100%">
 
-#### 📈 <a href="https://kivinsae.com" target="_blank">**My GitHub Status**</a>
+#### 📈 <a href="https://github.com/KKtheGhost" target="_blank">**My GitHub Status**</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKtheGhost&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Kivinsae's Wakapi stats](https://github-readme-stats.vercel.app/api/wakatime?username=kivinsae&api_domain=wakapi.dev&bg_color=000000&title_color=2F855A&icon_color=2F855A&text_color=FFFFD0&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 </tr>
+</table>
+
+---
+## <b>Resume</b>
+#### <b>[Harbin Institute of Technology](https://www.ea.com/)/Student/Harbin</b><div align="left"><i>2013.09 - 2017.06</i></dov>
+- Digital Media Technology
+
+#### <b>[ヒューマンアカデミー日本語学校](https://hajl.athuman.com/)/Student/Tokyo</b><div align="left"><i>2017.06 - 2018.07</i></dov>
+- Japanese
+
+#### <b>[ダイコクドラッグ](https://daikokudrug.com/)/Staff/Tokyo</b><div align="left"><i>2017.11 - 2018.05</i></dov>
+- Part time job
+
+#### <b>[X.D NetWork](https://www.xd.com/)/DevOps Engineer/Shanghai</b><div align="left"><i>2018.07 - 2022.05</i></dov>
+- Work as the DevOps leader in Project `T3 Arena`
+- Build automation tool-chains for the project.
+- Optimized build pipelines (TeamCity) and automate game deployment.
+- Setup and maintain both Chinese and Global production environment.
+
+#### <b>[Electronic Arts](https://www.ea.com/)/Infrastructure Engineer/Shanghai</b><div align="left"><i>2022.05 - Now</i></dov>
+- APAC Studios Infra & Automation
+
+---
+## <b>GamePlay</b>
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
