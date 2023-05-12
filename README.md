@@ -1,8 +1,4 @@
-[![wakatime](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost.svg)](https://wakatime.com/badge/github/KKtheGhost/KKtheGhost)
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
-[![Update wakatime stats](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml/badge.svg)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/waka-box.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ## <b>我是谁</b>
 
@@ -53,7 +49,7 @@
 <tr valign="top" width="100%">
 
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank"><b>🎮 Steam playtime leaderboard</b></a>
+#### <a href="https://gist.github.com/61a2fc3a8dde9ab364f668096a1ebb06" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 1985 hrs 2 mins
 🎮 Archeblade                       🕘 995 hrs 53 mins
@@ -67,8 +63,7 @@
 </tr>
 
 #### <b>👛 Wallect Address</b>
-[![License: MIT](https://img.shields.io/badge/BTC-3PAkWsoSGXKs8eK5DEWfdp3VgEJ17XvgjW-yellow)](https://gist.github.com/KKtheGhost/8a3981e30bd63526375a110d57c6f00a)
-[![License: MIT](https://img.shields.io/badge/ETH-0x9994eA2664c27601407Ef01E2dC9b7bF989ae954-blue)](https://gist.github.com/KKtheGhost/f4feccc86cabd860584e9ad533d1fada)
+[![BTC](https://img.shields.io/badge/BTC-156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV-yellow)](156rsaMQWcTrhtGdMYWaBpA2fzt6HUC8CV)
 
 </table>
 
