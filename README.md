@@ -1,6 +1,6 @@
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
 
-## <b>我是谁</b>
+## <b>我是谁 Who Am I</b>
 
 - 一个在外企打工的底层运维工程师，住在魔都。
 - 目前为止的职业生涯都在游戏行业度过，不过也许未来有机会的话希望可以在更多计算机相关领域工作。因为从个人的观点来看，运维工程师更像是一个泛用型工种。有数字化需求和高可用服务建设需求的领域，都有发挥热量的余地。
@@ -36,13 +36,15 @@
 - Part time job
 
 #### <b>[X.D NetWork](https://www.xd.com/)/DevOps Engineer/Shanghai</b><div align="left"><i>2018.07 - 2022.05</i></dov>
-- Work as the DevOps leader in Project `T3 Arena`
-- Build automation tool-chains for the project.
-- Optimized build pipelines (TeamCity) and automate game deployment.
-- Setup and maintain both Chinese and Global production environment.
+- Worked for Project `T3 Arena`
+- Built automation tool-chains for several game projects.
+- Optimized build pipelines and automated game deployment.
+- Setup and maintained both mainland and global production & staging environment.
 
 #### <b>[Electronic Arts](https://www.ea.com/)/Infrastructure Engineer/Shanghai</b><div align="left"><i>2022.05 - Now</i></dov>
-- APAC Studios Infra & Automation
+- APAC Studios Infra & Automation.
+- Cloud build related development.
+- IaC and Chef related development.
 
 ---
 ## <b>GamePlay</b>
