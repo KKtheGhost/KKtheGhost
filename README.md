@@ -1,6 +1,6 @@
 [![Update steam playtime](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml/badge.svg?event=schedule)](https://github.com/KKtheGhost/KKtheGhost/actions/workflows/steam-box.yml)
 
-## <b>我是谁 Who Am I</b>
+## <b>Who Am I</b>
 
 - I work as an Infrastructure engineer in a foreign company and I live in Shanghai.
 - So far, I have spent my entire career in the gaming industry, but I hope to work in other computer-related fields in the future, if the opportunity arises. From my personal point of view, DevOps/Infra engineers are more like a versatile type of engineer. There is room to excel in fields that require digitization and high availability service construction.
