@@ -7,7 +7,6 @@
 - I am married and have two cats - a ragdoll and a British shorthair.
 - I have a good command of English, with a score of 8.5 in the IELTS speaking test. My Japanese, on the other hand, is at a pure beginner level - I can understand it when reading or listening, but I struggle to speak it. Among my peers, I speak the best Wu dialect because I didn't learn Mandarin until I was 4 years old.
 - I used to be interested in politics, but now I would ban such topics immediately. It's a dangerous game that can lead to real harm.
-- I am an overly confident person, perhaps due to my ENTJ-A personality type. As a result, I don't have many friends - to put it another way, I've only made it this far by being thick-skinned.
 - I am generally tight-lipped, but the root cause is actually forgetfulness.
 - I primarily write Python, C, and Ruby in my daily work, with a recent focus on Powershell scripting and previous experience with Bash. I dabbled in Go for a while, but I haven't been using it recently. However, I could easily pick it up again.
 - Containerization and Infrastructure as Code are great advances, but HCL and Yaml are not aesthetically pleasing. However, as a user, I can't think of any better alternatives.
