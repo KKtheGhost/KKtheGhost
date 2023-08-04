@@ -18,9 +18,9 @@ def get_github_pull_requests(url):
         pull_requests = data['items'][:5]  # Get the first 5 PRs
 
         # Generate the SVG string
-        svg_template = """<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+        svg_template = """<svg width="320" height="130" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" fill="#0d1019" />
-          <text x="10" y="18" font-weight="bold" fill="#EEE">Recent Pull Request</text>
+          <text x="10" y="18" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">Recent Pull Request</text>
           {pr_data}
         </svg>
         """
@@ -32,7 +32,7 @@ def get_github_pull_requests(url):
             url = pr['html_url']
             truncated_title = truncate_string(title, 52)
             pr_data += f'<a href="{url}">\n'
-            pr_data += f'    <text x="25" y="{y_position}" fill="#99F" font-size="12">{truncated_title}</text>\n'
+            pr_data += f'    <text x="25" y="{y_position}" fill="#99F" font-size="12" font-family="monospace">{truncated_title}</text>\n'
             pr_data += '</a>\n'
             y_position += 17
 

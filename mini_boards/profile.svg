@@ -1,27 +1,23 @@
-<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="130" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="#0d1019" />
-  <text x="10" y="18" font-weight="bold" fill="#EEE">Who I Am</text>
-  <text x="10" y="35" font-size="12" font-weight="bold" fill="#EEE">Mailto:</text>
+  <text x="10" y="16" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">About Me</text>
+  <text x="10" y="35" font-size="12" fill="#EEE" font-family="monospace">Mailto:</text>
   <a href="mailto:im@kivinsae.com">
-    <text x="25" y="48" fill="#99F" font-size="11">im@kivinsae.com</text>
+    <text x="25" y="49" fill="#99F" font-size="12" font-family="monospace">im@kivinsae.com</text>
   </a>
   <a href="mailto:dev@amd.sh">
-    <text x="25" y="62" fill="#99F" font-size="11">dev@amd.sh</text>
+    <text x="25" y="63" fill="#99F" font-size="12" font-family="monospace">dev@amd.sh</text>
   </a>
-  <text x="10" y="78" font-size="12" font-weight="bold" fill="#EEE">Working for:</text>
+  <text x="10" y="78" font-size="12" fill="#EEE" font-family="monospace">Working for:</text>
   <a href="https://www.xd.com">
-    <text x="25" y="90" fill="#99F" font-size="11">XD Network (2018-2022)</text>
+    <text x="25" y="92" fill="#99F" font-size="12" font-family="monospace">XD Network (2018-2022)</text>
   </a>
   <a href="https://www.ea.com">
-    <text x="25" y="104" fill="#99F" font-size="11">Electronic Arts (2022-Now)</text>
+    <text x="25" y="106" fill="#99F" font-size="12" font-family="monospace">Electronic Arts (2022-Now)</text>
   </a>
-  <text x="170" y="15" font-size="12" font-weight="bold" fill="#EEE">Family:</text>
-    <text x="185" y="29" font-size="12" font-weight="bold">🐱</text>
-    <text x="200" y="29" font-size="12" font-weight="bold">🐱</text>
-    <text x="215" y="29" font-size="12" font-weight="bold">👨</text>
-    <text x="230" y="29" font-size="12" font-weight="bold">👩</text>
-  <text x="170" y="46" font-size="12" font-weight="bold" fill="#EEE">i18n:</text>
-    <text x="185" y="61" font-size="12" font-weight="bold">🇬🇧</text>
-    <text x="200" y="61" font-size="12" font-weight="bold">🇨🇳</text>
-    <text x="215" y="61" font-size="12" font-weight="bold">🇯🇵</text>
+  <text x="170" y="15" font-size="12" fill="#EEE" font-family="monospace">Family:</text>
+    <text x="185" y="29" font-size="12" fill="#99F" font-family="monospace">🐱 Momo, Pepe</text>
+    <text x="185" y="43" font-size="12" fill="#99F" font-family="monospace">Kivinsae, Zooey</text>
+  <text x="170" y="59" font-size="12" fill="#EEE" font-family="monospace">i18n:</text>
+    <text x="185" y="73" font-size="12" fill="#99F" font-family="monospace">ENG JPN CHN WU</text>
 </svg>
