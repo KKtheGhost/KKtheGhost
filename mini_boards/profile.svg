@@ -24,11 +24,4 @@
     <text x="185" y="61" font-size="12" font-weight="bold">🇬🇧</text>
     <text x="200" y="61" font-size="12" font-weight="bold">🇨🇳</text>
     <text x="215" y="61" font-size="12" font-weight="bold">🇯🇵</text>
-  <text x="170" y="78" font-size="12" font-weight="bold" fill="#EEE">Programming Lang:</text>
-    <image x="185" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-ruby-icon.png"/>
-    <image x="202" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-python-icon.png"/>
-    <image x="219" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-go-icon.png"/>
-    <image x="236" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-c-icon.png"/>
-    <image x="253" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-javascript-icon.png"/>
-    <image x="270" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-css3-icon.png"/>
 </svg>

@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 600px; /* 2 columns, each 300px wide */
-    }
-
-    td {
-        width: 310px;
-        height: 180px;
-        border: 0px solid black;
-    }
-</style>
 </head>
 <body>
 
