@@ -1,6 +1,9 @@
 <div align="left">
 <img src=./mini_boards/profile.svg />
-<img src=./mini_boards/pr.svg /><br>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AKKtheGhost+archived%3Afalse+is%3Aclosed">
+<img src=./mini_boards/pr.svg />
+</a>
+<br>
 <img src=./mini_boards/github_stats.svg />
 </div>
 <!--
