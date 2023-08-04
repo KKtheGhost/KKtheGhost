@@ -18,7 +18,7 @@ def get_latest_blog_posts(feed_url):
         """
 
         post_data = ""
-        y_position = 35
+        y_position = 36
         for entry in entries:
             title = entry.title
             link = entry.link
