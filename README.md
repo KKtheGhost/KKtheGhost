@@ -1,5 +1,7 @@
 <div align="left">
+<a href="mailto:im@kivinsae.com">
 <img src=./mini_boards/profile.svg />
+</a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3AKKtheGhost+archived%3Afalse+is%3Aclosed">
 <img src=./mini_boards/pr.svg />
 </a>
