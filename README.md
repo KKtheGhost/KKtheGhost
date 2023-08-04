@@ -1,6 +1,7 @@
 <div align="left">
 <img src=./mini_boards/profile.svg />
-<img src=./mini_boards/pr.svg />
+<img src=./mini_boards/pr.svg /><br>
+<img src=./mini_boards/github_stats.svg />
 </div>
 
 ---

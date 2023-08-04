@@ -26,7 +26,7 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python generator/github_data/get_gh_data.py  # Replace "your_script.py" with the name of your Python script
+      run: python generator/recent_pr/get_pr.py  # Replace "your_script.py" with the name of your Python script
 
     - name: Commit changes
       run: |
