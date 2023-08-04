@@ -1,0 +1,37 @@
+name: Generate SVG on Push
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate_svg:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.11.4
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests feedparser
+
+    - name: Run Python script
+      run: python generator/blog_data/blog_atom.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "KKtheGhost"
+        git config --global user.email "kivinsae@gmail.com"
+        git add ./mini_boards/blog_posts.svg
+        git commit -m "update: blog_posts.svg"
+        git push

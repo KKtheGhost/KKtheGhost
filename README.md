@@ -5,6 +5,9 @@
 </a>
 <br>
 <img src=./mini_boards/github_stats.svg />
+<a href="https://www.kivinsae.com">
+<img src=./mini_boards/blog_posts.svg />
+</a>
 </div>
 <!--
 [![Reddit Badge](https://img.shields.io/badge/@kivinsae-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/kivinsae)
