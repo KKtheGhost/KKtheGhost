@@ -1,0 +1,34 @@
+<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#454545" />
+  <text x="10" y="18" font-weight="bold" fill="#EEE">Who I Am</text>
+  <text x="10" y="35" font-size="12" font-weight="bold" fill="#EEE">Mailto:</text>
+  <a href="mailto:im@kivinsae.com">
+    <text x="25" y="48" fill="#99F" font-size="11">im@kivinsae.com</text>
+  </a>
+  <a href="mailto:dev@amd.sh">
+    <text x="25" y="62" fill="#99F" font-size="11">dev@amd.sh</text>
+  </a>
+  <text x="10" y="78" font-size="12" font-weight="bold" fill="#EEE">Working for:</text>
+  <a href="https://www.xd.com">
+    <text x="25" y="90" fill="#99F" font-size="11">XD Network (2018-2022)</text>
+  </a>
+  <a href="https://www.ea.com">
+    <text x="25" y="104" fill="#99F" font-size="11">Electronic Arts (2022-Now)</text>
+  </a>
+  <text x="170" y="15" font-size="12" font-weight="bold" fill="#EEE">Family:</text>
+    <text x="185" y="29" font-size="12" font-weight="bold">🐱</text>
+    <text x="200" y="29" font-size="12" font-weight="bold">🐱</text>
+    <text x="215" y="29" font-size="12" font-weight="bold">👨</text>
+    <text x="230" y="29" font-size="12" font-weight="bold">👩</text>
+  <text x="170" y="46" font-size="12" font-weight="bold" fill="#EEE">i18n:</text>
+    <text x="185" y="61" font-size="12" font-weight="bold">🇬🇧</text>
+    <text x="200" y="61" font-size="12" font-weight="bold">🇨🇳</text>
+    <text x="215" y="61" font-size="12" font-weight="bold">🇯🇵</text>
+  <text x="170" y="78" font-size="12" font-weight="bold" fill="#EEE">Programming Lang:</text>
+    <image x="185" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-ruby-icon.png"/>
+    <image x="202" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-python-icon.png"/>
+    <image x="219" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-go-icon.png"/>
+    <image x="236" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-c-icon.png"/>
+    <image x="253" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-javascript-icon.png"/>
+    <image x="270" y="82" width="16" height="16" href="https://icons.iconarchive.com/icons/pictogrammers/material/16/language-css3-icon.png"/>
+</svg>
