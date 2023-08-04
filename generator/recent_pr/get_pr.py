@@ -19,7 +19,7 @@ def get_github_pull_requests(url):
 
         # Generate the SVG string
         svg_template = """<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-          <rect width="100%" height="100%" fill="#454545" />
+          <rect width="100%" height="100%" fill="#0d1019" />
           <text x="10" y="18" font-weight="bold" fill="#EEE">Recent Pull Request</text>
           {pr_data}
         </svg>
