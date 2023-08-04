@@ -1,20 +1,20 @@
-<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="130" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" fill="#0d1019" />
-          <text x="10" y="18" font-weight="bold" fill="#EEE">Recent Pull Request</text>
+          <text x="10" y="18" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">Recent Pull Request</text>
           <a href="https://github.com/KKtheGhost/KKtheGhost/pull/10">
-    <text x="25" y="35" fill="#99F" font-size="12">update: remove wrong style</text>
+    <text x="25" y="35" fill="#99F" font-size="12" font-family="monospace">update: remove wrong style</text>
 </a>
 <a href="https://github.com/KKtheGhost/KKtheGhost/pull/9">
-    <text x="25" y="52" fill="#99F" font-size="12">update: feat/homepage_v2</text>
+    <text x="25" y="52" fill="#99F" font-size="12" font-family="monospace">update: feat/homepage_v2</text>
 </a>
 <a href="https://github.com/kubernetes/website/pull/42308">
-    <text x="25" y="69" fill="#99F" font-size="12">[zh] sync concepts\services-networking\topology-a...</text>
+    <text x="25" y="69" fill="#99F" font-size="12" font-family="monospace">[zh] sync concepts\services-networking\topology-a...</text>
 </a>
 <a href="https://github.com/kubernetes/website/pull/42143">
-    <text x="25" y="86" fill="#99F" font-size="12">[zh] sync workloads/controllers/*.md headers for ...</text>
+    <text x="25" y="86" fill="#99F" font-size="12" font-family="monospace">[zh] sync workloads/controllers/*.md headers for ...</text>
 </a>
 <a href="https://github.com/kubernetes/website/pull/42140">
-    <text x="25" y="103" fill="#99F" font-size="12">[zh] sync concepts/configuration/overview.md</text>
+    <text x="25" y="103" fill="#99F" font-size="12" font-family="monospace">[zh] sync concepts/configuration/overview.md</text>
 </a>
 
         </svg>
