@@ -1,6 +1,8 @@
 name: Generate SVG on Push
 
 on:
+  schedule:
+    - cron: "30 * * * *"
   push:
     branches:
       - main
