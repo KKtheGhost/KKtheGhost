@@ -33,12 +33,10 @@ jobs:
         if git diff --exit-code; then
           echo "No changes to commit."
           exit 0
+        else
+          git config --global user.name "KKtheGhost"
+          git config --global user.email "kivinsae@gmail.com"
+          git add ./mini_boards/pr.svg
+          git commit -m "update: PR.svg"
+          git push
         fi
-
-    - name: Commit changes
-      run: |
-        git config --global user.name "KKtheGhost"
-        git config --global user.email "kivinsae@gmail.com"
-        git add ./mini_boards/pr.svg
-        git commit -m "update: PR.svg"
-        git push

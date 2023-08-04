@@ -28,17 +28,15 @@ jobs:
     - name: Run Python script
       run: python generator/blog_data/blog_atom.py
 
-    - name: Check for changes
+    - name: Check for changes and Commit changes
       run: |
         if git diff --exit-code; then
           echo "No changes to commit."
           exit 0
+        else
+          git config --global user.name "KKtheGhost"
+          git config --global user.email "kivinsae@gmail.com"
+          git add ./mini_boards/blog_posts.svg
+          git commit -m "update: blog_posts.svg"
+          git push
         fi
-
-    - name: Commit changes
-      run: |
-        git config --global user.name "KKtheGhost"
-        git config --global user.email "kivinsae@gmail.com"
-        git add ./mini_boards/blog_posts.svg
-        git commit -m "update: blog_posts.svg"
-        git push
