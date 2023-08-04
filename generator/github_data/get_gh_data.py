@@ -31,7 +31,7 @@ def get_github_stats(username, token):
         total_issues = issues_data['total_count']
 
         # Generate the SVG string
-        svg_template = """<svg width="320" height="130" xmlns="http://www.w3.org/2000/svg">
+        svg_template = """<svg width="320" height="80" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" fill="#0d1019" />
           <text x="10" y="18" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">{username}'s GitHub Stats</text>
           <text x="25" y="34" fill="#99F" font-size="12" font-family="monospace">Total Earned Stars: {total_stars}</text>
