@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  generate_svg:
+  generate_gh_dat_svg:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
