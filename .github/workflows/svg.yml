@@ -36,7 +36,6 @@ jobs:
         fi
 
     - name: Commit changes
-      if: success() || failure()
       run: |
         git config --global user.name "KKtheGhost"
         git config --global user.email "kivinsae@gmail.com"
