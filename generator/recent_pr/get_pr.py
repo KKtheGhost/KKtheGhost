@@ -30,7 +30,7 @@ def get_github_pull_requests(url):
         for pr in pull_requests:
             title = pr['title']
             url = pr['html_url']
-            truncated_title = truncate_string(title, 35)
+            truncated_title = truncate_string(title, 39)
             pr_data += f'<a href="{url}">\n'
             pr_data += f'    <text x="25" y="{y_position}" fill="#99F" font-size="12" font-family="monospace">{truncated_title}</text>\n'
             pr_data += '</a>\n'
