@@ -28,6 +28,13 @@ jobs:
     - name: Run Python script
       run: python generator/github_data/get_gh_data.py
 
+    - name: Check for changes
+      run: |
+        if git diff --exit-code; then
+          echo "No changes to commit."
+          exit 0
+        fi
+
     - name: Commit changes
       if: success() || failure()
       run: |
