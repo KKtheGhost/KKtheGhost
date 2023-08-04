@@ -1,5 +1,5 @@
 <div align="left">
-<a href="mailto:im@kivinsae.com">
+<a href="https://www.linkedin.com/in/kivinsae/">
 <img src=./mini_boards/profile.svg />
 </a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3AKKtheGhost+archived%3Afalse+is%3Aclosed">
