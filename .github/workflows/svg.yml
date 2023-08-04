@@ -29,6 +29,7 @@ jobs:
       run: python generator/github_data/get_gh_data.py  # Replace "your_script.py" with the name of your Python script
 
     - name: Commit changes
+      if: always()
       run: |
         git config --global user.name "KKtheGhost"
         git config --global user.email "kivinsae@gmail.com"

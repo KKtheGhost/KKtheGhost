@@ -29,6 +29,7 @@ jobs:
       run: python generator/blog_data/blog_atom.py
 
     - name: Commit changes
+      if: always()
       run: |
         git config --global user.name "KKtheGhost"
         git config --global user.email "kivinsae@gmail.com"
