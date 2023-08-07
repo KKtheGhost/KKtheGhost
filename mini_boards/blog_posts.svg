@@ -1,11 +1,11 @@
 <svg width="320" height="80" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" fill="#0d1019" />
           <text x="10" y="18" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">Latest Blog Posts</text>
-          <a href="https://www.kivinsae.com/2023/06/24/2023-06-24-docs01/">
-    <text x="25" y="36" fill="#99F" font-size="12" font-family="monospace">写好项目技术文档 - CH01. Repository 设计</text>
+          <a href="https://www.kivinsae.com/2023/08/07/2023-08-07-hongshan_zoo/">
+    <text x="25" y="36" fill="#99F" font-size="12" font-family="monospace">窜访游记：红山森林动物园</text>
 </a>
-<a href="https://www.kivinsae.com/2023/06/24/2023-08-07-hongshan_zoo/">
-    <text x="25" y="50" fill="#99F" font-size="12" font-family="monospace">窜访红山森林动物园</text>
+<a href="https://www.kivinsae.com/2023/06/24/2023-06-24-docs01/">
+    <text x="25" y="50" fill="#99F" font-size="12" font-family="monospace">写好项目技术文档 - CH01. Repository 设计</text>
 </a>
 <a href="https://www.kivinsae.com/2023/05/26/2023-05-26-nuget_choco/">
     <text x="25" y="64" fill="#99F" font-size="12" font-family="monospace">NuGet 应用实践：手搓 Vitual Studio C...</text>
