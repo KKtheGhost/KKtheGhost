@@ -51,6 +51,6 @@ def get_github_pull_requests(url):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    url = "https://api.github.com/search/issues?q=is%3Apr+author%3AKKtheGhost+archived%3Afalse+is%3Amerged"
+    url = "https://api.github.com/search/issues?q=is%3Apr+author%3AKKtheGhost+archived%3Afalse"
 
     get_github_pull_requests(url)
