@@ -1,0 +1,45 @@
+name: Generate SVG on Push
+
+on:
+  schedule:
+    - cron: "30 * * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  generate_pr_svg:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      WAKAPI_TOKEN: ${{ secrets.WAKAPI_TOKEN }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.11.4
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Python script
+      run: python generator/wakapi/wakapi.py  # Replace "your_script.py" with the name of your Python script
+
+    - name: Check for changes and Commit changes
+      run: |
+        if git diff --exit-code; then
+          echo "No changes to commit."
+          exit 0
+        else
+          git config --global user.name "KKtheGhost"
+          git config --global user.email "kivinsae@gmail.com"
+          git add ./mini_boards/wakapi_stats.svg
+          git commit -m "update: wakapi_stats.svg"
+          git push
+        fi

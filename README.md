@@ -10,6 +10,9 @@
 <a href="https://www.kivinsae.com">
 <img src=./mini_boards/blog_posts.svg />
 </a>
+<a href="https://wakapi.dev/summary?interval=last_30_days&user=kivinsae">
+<img src=./mini_boards/wakapi_stats.svg />
+</a>
 </div>
 <!--
 [![Reddit Badge](https://img.shields.io/badge/@kivinsae-orange?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/kivinsae)
