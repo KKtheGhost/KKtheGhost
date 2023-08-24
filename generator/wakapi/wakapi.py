@@ -16,7 +16,7 @@ def get_wakapi_stats(username, token):
 
         # Extract monthly coding time data
         monthly_coding_time = wakapi_data.get('data', {}).get('languages', [])
-        max_languages = min(6, len(monthly_coding_time))
+        max_languages = min(10, len(monthly_coding_time))
 
         # Generate the SVG string
         svg_template = """<svg width="320" height="{height}" xmlns="http://www.w3.org/2000/svg">
@@ -29,7 +29,7 @@ def get_wakapi_stats(username, token):
         """.format(
             username=username,
             total_coding_time=wakapi_data.get('data', {}).get('human_readable_total', 0),
-            height=130,  # Adjust the height based on the number of languages
+            height=180,  # Adjust the height based on the number of languages
             lang_info="\n".join([
                 '<text x="25" y="{y}" fill="#99F" font-size="12" font-family="monospace">{lang_name}: </text>'.format(
                     y=48 + i * 14,
