@@ -1,20 +1,20 @@
 <svg width="320" height="130" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" fill="#0d1019" />
           <text x="10" y="18" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">Recent Pull Requests</text>
-          <a href="https://github.com/coolsnowwolf/lede/pull/11466">
-    <text x="25" y="35" fill="#99F" font-size="12" font-family="monospace">doc: Sync'ed README_EN.md to the lat...</text>
+          <a href="https://github.com/kubernetes/website/pull/42733">
+    <text x="25" y="35" fill="#99F" font-size="12" font-family="monospace">[zh] sync concepts/architecture/node...</text>
+</a>
+<a href="https://github.com/coolsnowwolf/lede/pull/11466">
+    <text x="25" y="52" fill="#99F" font-size="12" font-family="monospace">doc: Sync'ed README_EN.md to the lat...</text>
 </a>
 <a href="https://github.com/coolsnowwolf/lede/pull/11465">
-    <text x="25" y="52" fill="#99F" font-size="12" font-family="monospace">doc: added a workaround for WSL/WSL2...</text>
+    <text x="25" y="69" fill="#99F" font-size="12" font-family="monospace">doc: added a workaround for WSL/WSL2...</text>
 </a>
 <a href="https://github.com/kubernetes/website/pull/42488">
-    <text x="25" y="69" fill="#99F" font-size="12" font-family="monospace">[ja] sync concepts/services-networki...</text>
+    <text x="25" y="86" fill="#99F" font-size="12" font-family="monospace">[ja] sync concepts/services-networki...</text>
 </a>
 <a href="https://github.com/kubernetes/website/pull/42487">
-    <text x="25" y="86" fill="#99F" font-size="12" font-family="monospace">[zh] sync concepts/services-networki...</text>
-</a>
-<a href="https://github.com/KKtheGhost/KKtheGhost/pull/10">
-    <text x="25" y="103" fill="#99F" font-size="12" font-family="monospace">update: remove wrong style</text>
+    <text x="25" y="103" fill="#99F" font-size="12" font-family="monospace">[zh] sync concepts/services-networki...</text>
 </a>
 
         </svg>
