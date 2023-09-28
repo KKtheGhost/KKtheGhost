@@ -9,8 +9,8 @@
 <text x="25" y="90" fill="#99F" font-size="12" font-family="monospace">Ezhil: </text><text x="185" y="90" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 37 mins </text>
 <text x="25" y="104" fill="#99F" font-size="12" font-family="monospace">Ruby: </text><text x="185" y="104" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 23 mins </text>
 <text x="25" y="118" fill="#99F" font-size="12" font-family="monospace">unknown: </text><text x="185" y="118" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 22 mins </text>
-<text x="25" y="132" fill="#99F" font-size="12" font-family="monospace">JSON: </text><text x="185" y="132" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 12 mins </text>
-<text x="25" y="146" fill="#99F" font-size="12" font-family="monospace">Java: </text><text x="185" y="146" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 12 mins </text>
+<text x="25" y="132" fill="#99F" font-size="12" font-family="monospace">Java: </text><text x="185" y="132" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 12 mins </text>
+<text x="25" y="146" fill="#99F" font-size="12" font-family="monospace">JSON: </text><text x="185" y="146" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 12 mins </text>
 <text x="25" y="160" fill="#99F" font-size="12" font-family="monospace">Groovy: </text><text x="185" y="160" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 8 mins </text>
 <text x="25" y="174" fill="#99F" font-size="12" font-family="monospace">PowerShell: </text><text x="185" y="174" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 8 mins </text>
         </svg>
