@@ -13,7 +13,10 @@
     <text x="25" y="92" fill="#99F" font-size="12" font-family="monospace">XD Network (2018-2022)</text>
   </a>
   <a href="https://www.ea.com">
-    <text x="25" y="106" fill="#99F" font-size="12" font-family="monospace">Electronic Arts (2022-Now)</text>
+    <text x="25" y="106" fill="#99F" font-size="12" font-family="monospace">Electronic Arts (2022-2024)</text>
+  </a>
+  <a href="https://www.metlife.co.jp">
+    <text x="25" y="120" fill="#99F" font-size="12" font-family="monospace">MetLife Japan (2024-Now)</text>
   </a>
   <text x="170" y="15" font-size="12" fill="#EEE" font-family="monospace">Family:</text>
     <text x="185" y="29" font-size="12" fill="#99F" font-family="monospace">🐱 Momo, Pepe</text>
