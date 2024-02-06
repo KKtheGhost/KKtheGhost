@@ -6,5 +6,7 @@
           <text x="25" y="48" fill="#99F" font-size="12" font-family="monospace">Markdown: </text><text x="185" y="48" fill="#99F" font-size="12" font-family="monospace">| 1 hrs 29 mins </text>
 <text x="25" y="62" fill="#99F" font-size="12" font-family="monospace">YAML: </text><text x="185" y="62" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 7 mins </text>
 <text x="25" y="76" fill="#99F" font-size="12" font-family="monospace">unknown: </text><text x="185" y="76" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 1 mins </text>
+<text x="25" y="90" fill="#99F" font-size="12" font-family="monospace">Protocol Buffer: </text><text x="185" y="90" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 0 mins </text>
+<text x="25" y="104" fill="#99F" font-size="12" font-family="monospace">Scala: </text><text x="185" y="104" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 0 mins </text>
         </svg>
         
