@@ -2,11 +2,11 @@
           <rect width="100%" height="100%" fill="#0d1019" />
           <text x="10" y="18" font-weight="bold" font-size="15" fill="#EEE" font-family="monospace">kivinsae's Monthly Coding Time</text>
           <text x="25" y="34" font-weight="bold" fill="#CCF" font-size="12" font-family="monospace">Total Coding Time: </text>
-          <text x="185" y="34" font-weight="bold" fill="#CCF" font-family="monospace">| 6 hrs 35 mins</text>
+          <text x="185" y="34" font-weight="bold" fill="#CCF" font-family="monospace">| 6 hrs 17 mins</text>
           <text x="25" y="48" fill="#99F" font-size="12" font-family="monospace">Markdown: </text><text x="185" y="48" fill="#99F" font-size="12" font-family="monospace">| 1 hrs 41 mins </text>
 <text x="25" y="62" fill="#99F" font-size="12" font-family="monospace">Java: </text><text x="185" y="62" fill="#99F" font-size="12" font-family="monospace">| 1 hrs 33 mins </text>
 <text x="25" y="76" fill="#99F" font-size="12" font-family="monospace">Powershell: </text><text x="185" y="76" fill="#99F" font-size="12" font-family="monospace">| 1 hrs 13 mins </text>
-<text x="25" y="90" fill="#99F" font-size="12" font-family="monospace">Json: </text><text x="185" y="90" fill="#99F" font-size="12" font-family="monospace">| 1 hrs 2 mins </text>
+<text x="25" y="90" fill="#99F" font-size="12" font-family="monospace">Json: </text><text x="185" y="90" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 44 mins </text>
 <text x="25" y="104" fill="#99F" font-size="12" font-family="monospace">CSV: </text><text x="185" y="104" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 27 mins </text>
 <text x="25" y="118" fill="#99F" font-size="12" font-family="monospace">YAML: </text><text x="185" y="118" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 25 mins </text>
 <text x="25" y="132" fill="#99F" font-size="12" font-family="monospace">Unknown: </text><text x="185" y="132" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 8 mins </text>
