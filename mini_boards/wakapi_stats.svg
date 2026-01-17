@@ -5,6 +5,5 @@
           <text x="185" y="34" font-weight="bold" fill="#CCF" font-family="monospace">| 0 hrs 9 mins</text>
           <text x="25" y="48" fill="#99F" font-size="12" font-family="monospace">Json: </text><text x="185" y="48" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 9 mins </text>
 <text x="25" y="62" fill="#99F" font-size="12" font-family="monospace">Markdown: </text><text x="185" y="62" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 0 mins </text>
-<text x="25" y="76" fill="#99F" font-size="12" font-family="monospace">YAML: </text><text x="185" y="76" fill="#99F" font-size="12" font-family="monospace">| 0 hrs 0 mins </text>
         </svg>
         
